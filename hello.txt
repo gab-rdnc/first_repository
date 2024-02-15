@@ -1,1 +1,2 @@
 Hello, my name is Gabriella. I'm 30 years old and currently based in Lausanne. I studied at HEC Lausanne and have basic knowledge of data analytics and coding.
+Along my career, data analysis has been integral to measuring success, optimizing processes and extracting valuable information. Through this course, I hope to gain hands-on knowledge on how machine learning works to be able to lead projects in this area, in business contexts.
